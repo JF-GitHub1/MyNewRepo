@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7894-B5AA
+
+ Directory of C:\Joel Franklin\GitHub Learning\MyProject
+
+01/03/2025  23:45    <DIR>          .
+01/03/2025  20:43    <DIR>          ..
+01/03/2025  23:45                 0 foremail.txt
+01/03/2025  21:10                57 test1.txt
+01/03/2025  21:04                 0 test2.txt
+01/03/2025  22:29               443 test3.txt
+               4 File(s)            500 bytes
+               2 Dir(s)  40,961,953,792 bytes free
